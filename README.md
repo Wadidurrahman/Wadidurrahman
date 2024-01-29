@@ -1,7 +1,7 @@
 
 ### **Hi there 👋, I'am Wadidur Rahman**
 ____________________________________________________________________________________________________________________________________________________________________________
-## *FRONT END DEVELOPER AND DESIGN*
+## *FRONT END DEVELOPER*
 ![Front End and Desaign ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 ### **About Me**
