@@ -16,7 +16,12 @@ ________________________________________________________________________________
 - 🌱 Saat ini saya sedang mempelajari bahasa pemrograman baru, Raect Js, Tailwind css.
 ____________________________________________________________________________________________________________________________________________________________________________
 ### **Bahasa Pemograman:**
-
+<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,vite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,idea,vercel,aws" /><br>
+</div>
+<br>
 
 
 
