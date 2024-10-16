@@ -9,7 +9,6 @@ Saya terkadang membuat project sederhana sebagai latihan atau mengisi waktu luan
 ____________________________________________________________________________________________________________________________________________________________________________
 
 ### 👦 Github Stats:
-
 <div align="center">
 
 ![Profile Visit](https://komarev.com/ghpvc/?username=wadidurrahman)
@@ -18,13 +17,14 @@ ________________________________________________________________________________
 ![](https://github-readme-stats.vercel.app/api?username=wadidurrahman&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wadidurrahman&theme=light&hide_border=false)<br/>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wadidurrahman&theme=light&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadidurrahman&layout=compact&theme=light&hide_border=false)
+
 </div>
 
 
-</p>
-<hr>
 <p>
-________________________________________________________________________________________________________________________________________________________________
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
