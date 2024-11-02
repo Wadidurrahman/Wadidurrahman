@@ -2,7 +2,7 @@
 ### **Hi there 👋, I'am Wadidur Rahman**
 
 ____________________________________________________________________________________________________________________________________________________________________________
-Saya Wadid, Saya memiliki minat di bidang Pemograman (Website Developer). Terbiasa menggunakan berbagai aplikasi pengembangan website. Melakukan perubahan 1%hari tp konsisten lebih baik dari pada 10%/hari. saat ini saya terus pengembangkan skill di bagaian progremer👨‍💻.
+Saya Wadid, Saya memiliki minat di bidang Pemograman (Website Developer). Terbiasa menggunakan berbagai aplikasi pengembangan website. saya selalu meningkatkan skill saya didalam dunia developer saat ini saya terus pengembangkan skill dengan membuat project2 kecil dengan beberapa teknologi terbaru👨‍💻.
 
 Saya terkadang membuat project sederhana sebagai latihan atau mengisi waktu luang saya dengan mendesign hal Rondom.
 
