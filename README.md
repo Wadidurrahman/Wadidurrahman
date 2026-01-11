@@ -41,17 +41,19 @@ Saya menggabungkan kemampuan analisis data dengan logika pemrograman untuk memba
 
 <div align="center">
 
-| **GitHub Stats** | **Streak Stats** |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=wadidurrahman&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadidurrahman&theme=tokyonight&hide_border=true" height="160" alt="streak graph" /> |
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wadidurrahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/wadidurrahman)
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wadidurrahman&theme=tokyonight&hide_border=true)](https://github.com/wadidurrahman)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadidurrahman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/wadidurrahman)
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadidurrahman&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" alt="languages graph" />
-</div>
-
-<br />
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wadidurrahman&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
