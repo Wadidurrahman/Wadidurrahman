@@ -55,9 +55,9 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,php,laravel,codeigniter,mysql,postgres&theme=dark" alt="Tech Stack 1" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,php,laravel,codeigniter,mysql, Supabase, Mongodb,postgres&theme=dark" alt="Tech Stack 1" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" alt="Tech Stack 2" style="margin-top: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Tech Stack 2" style="margin-top: 10px;" />
 </div>
 
 <br />
